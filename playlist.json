@@ -1,0 +1,52 @@
+{
+    "estilos" : {
+        "Trap " : {
+            "Artistas" : {
+                "Alee" : {
+                    "video" : "https://www.youtube.com/watch?v=N8eqkNfnP1s&pp=ygUKZGlhbmEgYWxlZQ%3D%3D",
+                    "sobre" : "alee.txt"
+                },
+                "Matue" : {
+                    "video" : "https://www.youtube.com/watch?v=ZPcG9PCfagM&pp=ygUWbWFxdWluYSBkbyB0ZW1wbyBtYXR1ZQ%3D%3D",
+                    "sobre" : "matue.txt"
+                }
+            }
+        },
+        "Trap feminino" : {
+            "Artistas" : {
+                "Duquesa" : {
+                    "video" : "https://www.youtube.com/watch?v=90FKLUceJmg&pp=ygUMZnVzbyBkdXF1ZXNh",
+                    "sobre" : "duquesa.txt"
+                },
+                "Nanda_Tsunami" : {
+                    "video" : "https://www.youtube.com/watch?v=D1l2cDI6J-g&pp=ygUabmFuZGF0c3VuYW1pIG5vdmluaG8gY2hvcmE%3D",
+                    "sobre" : "tsunami.txt"
+                }
+            }
+        },
+        "POP" : {
+            "Artistas" : {
+                "Justin_Bieber" : {
+                    "video" : "https://www.youtube.com/watch?v=kffacxfA7G4&pp=ygUNanVzdGluIGJpZWJlcg%3D%3D",
+                    "sobre" : "justin.txt"
+                },
+                "Rihanna" : {
+                    "video" : "https://www.youtube.com/watch?v=Wf9dUz2CL7Y&pp=ygULYmFkIHJpaGFubmE%3D",
+                    "sobre" : "rihanna.txt"
+                }
+            }
+        },
+        "Sertanejo" : {
+            "Artistas" : {
+                "Luan_Santana" : {
+                    "video" : "https://www.youtube.com/watch?v=Z5pWz_OR5Sg&pp=ygUZbHVhbiBzYW50YW5hIHRlIGVzcGVyYW5kbw%3D%3D",
+                    "sobre" : "luan.txt"
+                },
+                "Henrique_e_Juliano" : {
+                    "video" : "https://www.youtube.com/watch?v=IgEGq_QgrqY&pp=ygUSaGVucmlxdWUgZSBqdWxpYW5v",
+                    "sobre" : "henrique.txt"
+                }
+            }
+        }
+    }
+}
